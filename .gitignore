@@ -2,5 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
-
-_bookdown_files
+.gitignore
+.DS_Store
+notebooks/*.html
+/notebooks/*.html
+notebooks/*.pdf
+/notebooks/*.pdf
